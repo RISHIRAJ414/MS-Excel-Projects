@@ -1,15 +1,15 @@
 This Excel Workbook(Movies_ralted_dataset) consists of many worksheets :
-Movies Cleaned
-movies(uncleaned)
-Movie Financials (Power Pivot)
-All Business Related Formulas
-Profit Targets
-Movie Financials (Pivot Table)
-Movie Financials (Merging Data)
-financials
-actors
-movie_actor
-languages
+1.Movies Cleaned
+2.movies(uncleaned)
+3.Movie Financials (Power Pivot)
+4.All Business Related Formulas
+5.Profit Targets
+6.Movie Financials (Pivot Table)
+7.Movie Financials (Merging Data)
+8.financials
+9.actors
+10./movie_actor
+11.languages
 
 ****I have performed and showcased many features and optoins related to  Data Analysis in MS Excel**** 
 
