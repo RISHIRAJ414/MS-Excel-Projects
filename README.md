@@ -11,7 +11,7 @@ This Excel Workbook(Movies_ralted_dataset) consists of many worksheets :
 10./movie_actor
 11.languages
 
-****I have performed and showcased many features and optoins related to  Data Analysis in MS Excel**** 
+****I have performed and showcased on many features and optoins related to  Data Analysis in MS Excel**** 
 
 **Skills I showcased :
 - Power Query and all its Related Features 
